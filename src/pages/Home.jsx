@@ -10,6 +10,9 @@ const Home = () => {
             <div>
                 <Profile />
             </div>
+            <div>
+                <Profile />
+            </div>
             <div className="col-span-2 shadow-lg p-padding_base">
                 <div className=" grid grid-cols-4 items-center justify-center">
                     <button
